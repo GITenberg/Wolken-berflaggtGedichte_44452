@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '42762'
     url: http://www.gutenberg.org/2009/agents/42762
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44452#Wolken-berflaggtGedichte
 gutenberg_issued: '2013-12-17'
 gutenberg_type: Text
 identifiers:
