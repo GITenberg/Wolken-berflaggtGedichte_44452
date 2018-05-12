@@ -1,0 +1,26 @@
+_repo: Wolken-berflaggtGedichte_44452
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44452-h/images/cover-page.jpg
+creator:
+  author:
+    agent_name: Lotz, Ernst Wilhelm
+    birthdate: 1890
+    deathdate: 1914
+    gutenberg_agent_id: '42762'
+    url: http://www.gutenberg.org/2009/agents/42762
+description: ''
+gutenberg_issued: '2013-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44452'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German poetry -- 20th century'
+title: 'Wolkenüberflaggt: Gedichte'
+url: http://www.gutenberg.org/ebooks/44452
